@@ -1,0 +1,6 @@
+Name: Vardenis
+Last Name: Pavardenis
+Specialist: Petras Petraitis (Surgeon)
+Animals:
+  - Name: Tom, Gender: Male, Type: Dog
+  - Name: Mary, Gender: Female, Type: Dog

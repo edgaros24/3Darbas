@@ -1,0 +1,12 @@
+<application xmlns="http://wadl.dev.java.net/2009/02">
+    <doc xml:lang="en" title="http://localhost:8080"/>
+    <resources base="http://localhost:8080">
+        <resource path="VetData" id="VetData">
+            <doc xml:lang="en" title="VetData"/>
+            <method name="GET" id="VetData 1">
+                <doc xml:lang="en" title="VetData 1"/>
+                <request/>
+            </method>
+        </resource>
+    </resources>
+</application>
